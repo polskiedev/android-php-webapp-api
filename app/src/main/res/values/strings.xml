@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WebApp API Connect</string>
+    <string name="APP_ENVIRONMENT">PRODUCTION</string>
+    <string name="APP_ENVIRONMENT2">TESTING</string>
+
+    <string name="CONFIG_API_KEY">a6830b5b3f948a9e5eb81e421c2c3114157b6f27cb8fcb35f31352e66b040620</string>
+
+    <string name="URL_REGISTER">https://api-dev.000webhostapp.com/create_user.php</string>
+    <string name="URL_LOGIN">https://api-dev.000webhostapp.com/login.php</string>
+
+    <string name="LOCAL_URL_REGISTER">http://10.0.2.2/android-api/create_user.php</string>
+    <string name="LOCAL_URL_LOGIN">http://10.0.2.2/android-api/login.php</string>
+
+    <string-array name="TestList" >
+    <item>Test1</item>
+    <item>Test2</item>
+    <item>Test3</item>
+    </string-array>
+</resources>
